@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Brewery Ommegang: Iron Throne, Ep. 185	</title>
+	<atom:link href="https://beeramerica.tv/ommegang-iron-throne-185/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/ommegang-iron-throne-185/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Fri, 24 Mar 2017 13:49:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Ray Larkin		</title>
+		<link>https://beeramerica.tv/ommegang-iron-throne-185/comment-page-1/#comment-1912</link>
+
+		<dc:creator><![CDATA[Ray Larkin]]></dc:creator>
+		<pubDate>Wed, 10 Apr 2013 19:07:54 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1515#comment-1912</guid>
+
+					<description><![CDATA[Best comment, &quot;it does not bite&quot;.]]></description>
+			<content:encoded><![CDATA[<p>Best comment, &#8220;it does not bite&#8221;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
