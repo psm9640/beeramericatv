@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Shipyard Brewing: Smashed Pumpkin, Ep. 82	</title>
+	<atom:link href="https://beeramerica.tv/shipyard-brewing-smashed-pumpkin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/shipyard-brewing-smashed-pumpkin/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 16:06:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Todd		</title>
+		<link>https://beeramerica.tv/shipyard-brewing-smashed-pumpkin/comment-page-1/#comment-412</link>
+
+		<dc:creator><![CDATA[Todd]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2009 23:53:34 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=774#comment-412</guid>
+
+					<description><![CDATA[Like the BN Army shirt John.]]></description>
+			<content:encoded><![CDATA[<p>Like the BN Army shirt John.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Marco Baio		</title>
+		<link>https://beeramerica.tv/shipyard-brewing-smashed-pumpkin/comment-page-1/#comment-411</link>
+
+		<dc:creator><![CDATA[Marco Baio]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2009 22:41:59 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=774#comment-411</guid>
+
+					<description><![CDATA[Good show. I also noticed you changed the music at the end.]]></description>
+			<content:encoded><![CDATA[<p>Good show. I also noticed you changed the music at the end.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Shipyard Brewing: XXXX IPA, Ep. 95	</title>
+	<atom:link href="https://beeramerica.tv/shipyard-brewing-xxxx-ipa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/shipyard-brewing-xxxx-ipa/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 15:43:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Bobby Hines		</title>
+		<link>https://beeramerica.tv/shipyard-brewing-xxxx-ipa/comment-page-1/#comment-489</link>
+
+		<dc:creator><![CDATA[Bobby Hines]]></dc:creator>
+		<pubDate>Tue, 23 Mar 2010 19:29:14 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=926#comment-489</guid>
+
+					<description><![CDATA[We are taking a trip to Acadia National Park in June and thanks to your video , Shipyard will be one of the many breweries will plan to stop and visit along the way. Thanks for the insight of what looks to be a delicious brew!]]></description>
+			<content:encoded><![CDATA[<p>We are taking a trip to Acadia National Park in June and thanks to your video , Shipyard will be one of the many breweries will plan to stop and visit along the way. Thanks for the insight of what looks to be a delicious brew!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
