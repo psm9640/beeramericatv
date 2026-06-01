@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>beer - Beer America TV - Craft Beer in Motion!</title>
+	<atom:link href="https://beeramerica.tv/tag/beer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Fri, 24 Mar 2017 15:30:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<copyright>Copyright &#xA9; Beer America TV - Craft Beer in Motion! 2026 </copyright>
+	<managingEditor>paul@beeramerica.tv (Beer America TV - Craft Beer in Motion!)</managingEditor>
+	<webMaster>paul@beeramerica.tv (Beer America TV - Craft Beer in Motion!)</webMaster>
+	<image>
+		<url>http://beeramerica.tv/wp-content/plugins/podpress/images/powered_by_podpress.jpg</url>
+		<title>Beer America TV - Craft Beer in Motion!</title>
+		<link>https://beeramerica.tv</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	<itunes:subtitle></itunes:subtitle>
+	<itunes:summary>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</itunes:summary>
+	<itunes:keywords></itunes:keywords>
+	<itunes:category text="Society &#38; Culture" />
+	<itunes:author>Beer America TV - Craft Beer in Motion!</itunes:author>
+	<itunes:owner>
+		<itunes:name>Beer America TV - Craft Beer in Motion!</itunes:name>
+		<itunes:email>paul@beeramerica.tv</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://beeramerica.tv/wp-content/plugins/podpress/images/powered_by_podpress.jpg" />
+	<item>
+		<title>Beer and the Internet, Ep. 165</title>
+		<link>https://beeramerica.tv/beer-and-the-internet-165/</link>
+					<comments>https://beeramerica.tv/beer-and-the-internet-165/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 12 Jun 2012 01:10:49 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[Craft beer]]></category>
+		<category><![CDATA[homebrew]]></category>
+		<category><![CDATA[internet]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1448</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/beer-and-the-internet-165/"><img src="https://beeramerica.tv/wp-content/uploads/2012/06/165-Topics-Beer-and-Internet-200x120.png" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>It&#8217;s you, it&#8217;s us, it&#8217;s me, it&#8217;s Beer America TV&#8230;all hail the video beer blogger! We started our little vlog back in 2008, and you&#8217;d be hard pressed to find more then a handful on the entire internet back then. Today, there are all types and number in the hundreds . They range from homebrew [&#8230;]</p>
+<p>The post <a href="https://beeramerica.tv/beer-and-the-internet-165/">Beer and the Internet, Ep. 165</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/beer-and-the-internet-165/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Beer Wars, did I miss something?</title>
+		<link>https://beeramerica.tv/beer-wars-did-i-miss-something/</link>
+					<comments>https://beeramerica.tv/beer-wars-did-i-miss-something/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2009 14:43:57 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[American Craft Beer]]></category>
+		<category><![CDATA[Anat Baron]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[Beer America]]></category>
+		<category><![CDATA[Beer America TV]]></category>
+		<category><![CDATA[Beer TV]]></category>
+		<category><![CDATA[Beer Wars]]></category>
+		<category><![CDATA[Dogfish Head]]></category>
+		<category><![CDATA[Moonshot]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=552</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/beer-wars-did-i-miss-something/"><img src="https://beeramerica.tv/wp-content/uploads/2009/04/beer-wars-did-i-miss-something-552-200x120.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>As the lights came up in the nearly empty theater I was sitting in, I felt like I had just seen a documentary made by a charmingly geeky executive formally of Mike&#8217;s Hard Lemonade who is allergic to alcohol. Now to be fair at the top, I give Anat Baron kudos for putting the time [&#8230;]</p>
+<p>The post <a href="https://beeramerica.tv/beer-wars-did-i-miss-something/">Beer Wars, did I miss something?</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/beer-wars-did-i-miss-something/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Episode 19 &#8211; Dogtoberfest &#8211; Flying Dog Brewery</title>
+		<link>https://beeramerica.tv/episode-19-dogtoberfest-flying-dog-brewery/</link>
+					<comments>https://beeramerica.tv/episode-19-dogtoberfest-flying-dog-brewery/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2008 17:22:35 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[brewery]]></category>
+		<category><![CDATA[dog]]></category>
+		<category><![CDATA[dogtoberfest]]></category>
+		<category><![CDATA[flying]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[marzen]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=239</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/episode-19-dogtoberfest-flying-dog-brewery/"><img src="https://beeramerica.tv/wp-content/uploads/019-t.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>A deranged king and a pack of weiner dogs has inspired Flying Dog Brewery to release a beer perfect for Fall&#8217;s cool weather and holiday fare . Dogtoberfest is a true German Marzen Style, so much so, it won the Gold in that category at the 2008 GABF!</p>
+<p>The post <a href="https://beeramerica.tv/episode-19-dogtoberfest-flying-dog-brewery/">Episode 19 – Dogtoberfest – Flying Dog Brewery</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/episode-19-dogtoberfest-flying-dog-brewery/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BeerAmerica.TV and Mother Earth Brews &#8211; I mean News</title>
+		<link>https://beeramerica.tv/beeramericatv-and-mother-earth-brews-i-mean-news/</link>
+					<comments>https://beeramerica.tv/beeramericatv-and-mother-earth-brews-i-mean-news/#respond</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 00:50:30 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[Beer America]]></category>
+		<category><![CDATA[good libations]]></category>
+		<category><![CDATA[home brew]]></category>
+		<category><![CDATA[Mother Earth News]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=176</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/beeramericatv-and-mother-earth-brews-i-mean-news/"><img src="" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>  With so many websites dedicated to beer and home brewing, heres one  that caught me by surprise. For almost 40 years Mother Earth News has been known as the original guide to living wisely and all things green and sustainable &#8211; before those became cool marketing terms.  It appears they know a thing a two [&#8230;]</p>
+<p>The post <a href="https://beeramerica.tv/beeramericatv-and-mother-earth-brews-i-mean-news/">BeerAmerica.TV and Mother Earth Brews – I mean News</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/beeramericatv-and-mother-earth-brews-i-mean-news/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
