@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Coast Brewing: 32/50 Kölsch, Ep. 115	</title>
+	<atom:link href="https://beeramerica.tv/coast-brewing-32-50-kolsch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/coast-brewing-32-50-kolsch/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 14:43:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: TucsonTom		</title>
+		<link>https://beeramerica.tv/coast-brewing-32-50-kolsch/comment-page-1/#comment-590</link>
+
+		<dc:creator><![CDATA[TucsonTom]]></dc:creator>
+		<pubDate>Fri, 12 Nov 2010 20:02:20 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1091#comment-590</guid>
+
+					<description><![CDATA[As always, guys, a great show. I happened to try 32/50 as part of a taster set at Charleston&#039;s Beer Works (thanks to them for opening their taps early for me). The cloudy wheat aspect was surprising. My favorite American Kolsh is the summer seasonal from your friends at Alaskan Brewing.]]></description>
+			<content:encoded><![CDATA[<p>As always, guys, a great show. I happened to try 32/50 as part of a taster set at Charleston&#8217;s Beer Works (thanks to them for opening their taps early for me). The cloudy wheat aspect was surprising. My favorite American Kolsh is the summer seasonal from your friends at Alaskan Brewing.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
