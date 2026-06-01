@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Dogfish Head: Theobroma, Ep. 153	</title>
+	<atom:link href="https://beeramerica.tv/dogfish-head-theobroma/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/dogfish-head-theobroma/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Tue, 29 Nov 2011 16:49:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Paul		</title>
+		<link>https://beeramerica.tv/dogfish-head-theobroma/comment-page-1/#comment-1292</link>
+
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2011 16:49:25 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1281#comment-1292</guid>
+
+					<description><![CDATA[You&#039;re right Marco, John has talked about how honey gets lost in the brewing process so that&#039;s why beers don&#039;t taste like &quot;honey&quot; when they say it&#039;s used as an ingredient. I&#039;ll have to get John on this so he explain in more detail why that happens during the brewing process.]]></description>
+			<content:encoded><![CDATA[<p>You&#8217;re right Marco, John has talked about how honey gets lost in the brewing process so that&#8217;s why beers don&#8217;t taste like &#8220;honey&#8221; when they say it&#8217;s used as an ingredient. I&#8217;ll have to get John on this so he explain in more detail why that happens during the brewing process.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Marco		</title>
+		<link>https://beeramerica.tv/dogfish-head-theobroma/comment-page-1/#comment-1288</link>
+
+		<dc:creator><![CDATA[Marco]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2011 15:21:48 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1281#comment-1288</guid>
+
+					<description><![CDATA[If you ever find out what kind of Honey they use in that beer, I&#039;d love to know. Also, what technique in how to brew with it, as my experience brewing with honey or maple syrup gets fermented out and the flavour isn&#039;t in the final product.
+
+Cheers,
+Marco]]></description>
+			<content:encoded><![CDATA[<p>If you ever find out what kind of Honey they use in that beer, I&#8217;d love to know. Also, what technique in how to brew with it, as my experience brewing with honey or maple syrup gets fermented out and the flavour isn&#8217;t in the final product.</p>
+<p>Cheers,<br />
+Marco</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Episode 39 &#8211; Raison D&#8217;Etre	</title>
+	<atom:link href="https://beeramerica.tv/dogfish-head-raison-d-etre/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/dogfish-head-raison-d-etre/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Fri, 24 Mar 2017 13:48:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Connie		</title>
+		<link>https://beeramerica.tv/dogfish-head-raison-d-etre/comment-page-1/#comment-123</link>
+
+		<dc:creator><![CDATA[Connie]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2009 14:48:17 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=426#comment-123</guid>
+
+					<description><![CDATA[I&#039;m a Dogfish Head fan.  (Or maybe just an off-centered person.)]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m a Dogfish Head fan.  (Or maybe just an off-centered person.)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Paul		</title>
+		<link>https://beeramerica.tv/dogfish-head-raison-d-etre/comment-page-1/#comment-122</link>
+
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2009 14:23:30 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=426#comment-122</guid>
+
+					<description><![CDATA[It&#039;s most likely a busy server, try again, it seems to play fine now. Thanks for checking in Mariah!]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s most likely a busy server, try again, it seems to play fine now. Thanks for checking in Mariah!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mariah Calagione		</title>
+		<link>https://beeramerica.tv/dogfish-head-raison-d-etre/comment-page-1/#comment-121</link>
+
+		<dc:creator><![CDATA[Mariah Calagione]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2009 03:06:16 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=426#comment-121</guid>
+
+					<description><![CDATA[Cant get this to play - would love to see it though!]]></description>
+			<content:encoded><![CDATA[<p>Cant get this to play &#8211; would love to see it though!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
