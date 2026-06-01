@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Episode 10 &#8211; Kona&#8217;s Fire Rock Pale Ale	</title>
+	<atom:link href="https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Wed, 22 Mar 2017 21:04:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Paul		</title>
+		<link>https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/comment-page-1/#comment-19</link>
+
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2008 20:14:04 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=126#comment-19</guid>
+
+					<description><![CDATA[We are currently switching players from Brightcove to Viddler as we are preparing to relaunch the site with a new design - that might be the problem. It runs fine on my computer.]]></description>
+			<content:encoded><![CDATA[<p>We are currently switching players from Brightcove to Viddler as we are preparing to relaunch the site with a new design &#8211; that might be the problem. It runs fine on my computer.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: John		</title>
+		<link>https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/comment-page-1/#comment-18</link>
+
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2008 10:42:07 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=126#comment-18</guid>
+
+					<description><![CDATA[I can&#039;t seem to get this video to run.  I went to viddler and other videos from thier site run ok.  Any ideas?]]></description>
+			<content:encoded><![CDATA[<p>I can&#8217;t seem to get this video to run.  I went to viddler and other videos from thier site run ok.  Any ideas?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

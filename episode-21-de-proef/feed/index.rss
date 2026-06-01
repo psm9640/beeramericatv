@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Episode 21 &#8211; De Proef	</title>
+	<atom:link href="https://beeramerica.tv/episode-21-de-proef/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/episode-21-de-proef/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Wed, 26 Nov 2008 19:04:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: David Little		</title>
+		<link>https://beeramerica.tv/episode-21-de-proef/comment-page-1/#comment-53</link>
+
+		<dc:creator><![CDATA[David Little]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2008 19:04:03 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=248#comment-53</guid>
+
+					<description><![CDATA[Just need to jump in and correct myself and expand another ...
+
+The first in this Signature Reserve series was done with Tomme Arthur of Lost Abbey/Pizza Port. 
+
+Sorry Tomme.
+
+http://beeradvocate.com/beer/profile/3521/37907
+
+And this particular beer was brewed by Jason Perkins from Allagash along with De Proef.
+
+Sláinte!]]></description>
+			<content:encoded><![CDATA[<p>Just need to jump in and correct myself and expand another &#8230;</p>
+<p>The first in this Signature Reserve series was done with Tomme Arthur of Lost Abbey/Pizza Port. </p>
+<p>Sorry Tomme.</p>
+<p>http://beeradvocate.com/beer/profile/3521/37907</p>
+<p>And this particular beer was brewed by Jason Perkins from Allagash along with De Proef.</p>
+<p>Sláinte!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
