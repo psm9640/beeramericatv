@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>pale ale - Beer America TV - Craft Beer in Motion!</title>
+	<atom:link href="https://beeramerica.tv/tag/pale-ale/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Fri, 24 Mar 2017 14:08:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<copyright>Copyright &#xA9; Beer America TV - Craft Beer in Motion! 2026 </copyright>
+	<managingEditor>paul@beeramerica.tv (Beer America TV - Craft Beer in Motion!)</managingEditor>
+	<webMaster>paul@beeramerica.tv (Beer America TV - Craft Beer in Motion!)</webMaster>
+	<image>
+		<url>http://beeramerica.tv/wp-content/plugins/podpress/images/powered_by_podpress.jpg</url>
+		<title>Beer America TV - Craft Beer in Motion!</title>
+		<link>https://beeramerica.tv</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	<itunes:subtitle></itunes:subtitle>
+	<itunes:summary>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</itunes:summary>
+	<itunes:keywords></itunes:keywords>
+	<itunes:category text="Society &#38; Culture" />
+	<itunes:author>Beer America TV - Craft Beer in Motion!</itunes:author>
+	<itunes:owner>
+		<itunes:name>Beer America TV - Craft Beer in Motion!</itunes:name>
+		<itunes:email>paul@beeramerica.tv</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://beeramerica.tv/wp-content/plugins/podpress/images/powered_by_podpress.jpg" />
+	<item>
+		<title>SweetWater 420, Ep. 173</title>
+		<link>https://beeramerica.tv/sweetwater-420-173/</link>
+					<comments>https://beeramerica.tv/sweetwater-420-173/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Thu, 13 Sep 2012 21:14:36 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[Atlanta]]></category>
+		<category><![CDATA[Georgia]]></category>
+		<category><![CDATA[pale ale]]></category>
+		<category><![CDATA[SweetWater]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1473</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/sweetwater-420-173/"><img src="https://beeramerica.tv/wp-content/uploads/2012/09/Sweetwater-420-200x120.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>Atlanta is very familiar with the Beer America TV team, but over the years we&#8217;ve failed to bring you many beers from there, so this week we aim to change that . The SweetWater Brewing Company is growing at an incredible pace these days and one of their staple beers has been their 420! This [&#8230;]</p>
+<p>The post <a href="https://beeramerica.tv/sweetwater-420-173/">SweetWater 420, Ep. 173</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/sweetwater-420-173/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sante Fe Brewing: Pale Ale, Ep. 143</title>
+		<link>https://beeramerica.tv/sante-fe-brewing-pale-ale/</link>
+					<comments>https://beeramerica.tv/sante-fe-brewing-pale-ale/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 26 Jul 2011 17:17:13 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[German]]></category>
+		<category><![CDATA[New Mexico]]></category>
+		<category><![CDATA[pale ale]]></category>
+		<category><![CDATA[Santa Fe Brewing]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1258</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/sante-fe-brewing-pale-ale/"><img src="https://beeramerica.tv/wp-content/uploads/2011/07/sante-fe-brewing-pale-ale-1258-200x120.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>This week on Beer America TV we venture into a new beer from a new state. Sante Fe Pale Ale from the Sante Fe Brewing Company in New Mexico is a robust Pale Ale with a pilsner like maltiness due to the German yeast strain used in brewing . A new find and a nice [&#8230;]</p>
+<p>The post <a href="https://beeramerica.tv/sante-fe-brewing-pale-ale/">Sante Fe Brewing: Pale Ale, Ep. 143</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/sante-fe-brewing-pale-ale/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Moon River Swamp Fox IPA, Ep. 96</title>
+		<link>https://beeramerica.tv/moon-river-swamp-fox-ipa-ep-96/</link>
+					<comments>https://beeramerica.tv/moon-river-swamp-fox-ipa-ep-96/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 30 Mar 2010 03:53:21 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[Craft beer]]></category>
+		<category><![CDATA[Georgia]]></category>
+		<category><![CDATA[IPAs]]></category>
+		<category><![CDATA[Moon River Brewing]]></category>
+		<category><![CDATA[pale ale]]></category>
+		<category><![CDATA[Savannah]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=935</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/moon-river-swamp-fox-ipa-ep-96/"><img src="https://beeramerica.tv/wp-content/uploads/2010/03/moon-river-swamp-fox-ipa-ep-96-935-200x120.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>This week we take on a beer that many of you can&#8217;t get your hands on unless you come to Georgia . It&#8217;s Moon River Brewing&#8217;s Swamp Fox IPA. Yes, it&#8217;s about time we talked about a beer brewed by our own John Pinkerton! John talks about what goes into this hop explosion, where the [&#8230;]</p>
+<p>The post <a href="https://beeramerica.tv/moon-river-swamp-fox-ipa-ep-96/">Moon River Swamp Fox IPA, Ep. 96</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/moon-river-swamp-fox-ipa-ep-96/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Brooklyn Brewery: Black Ops &#8211; Ep. 67</title>
+		<link>https://beeramerica.tv/brooklyn-brewery-black-ops-ep-67/</link>
+					<comments>https://beeramerica.tv/brooklyn-brewery-black-ops-ep-67/#respond</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2009 13:06:54 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[bourbon]]></category>
+		<category><![CDATA[brooklyn brewery]]></category>
+		<category><![CDATA[champagne yeast]]></category>
+		<category><![CDATA[Garrett Oliver]]></category>
+		<category><![CDATA[IPA]]></category>
+		<category><![CDATA[pale ale]]></category>
+		<category><![CDATA[Russian Imperial Stout]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=691</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/brooklyn-brewery-black-ops-ep-67/"><img src="https://beeramerica.tv/wp-content/uploads/2009/07/brooklyn-brewery-black-ops-ep-67-691-200x120.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>For a beer that &#8220;does not exist&#8221;, Brooklyn Black Ops is one for the books . This rich, but very smooth Russian Imperial Stout was aged for 4 months in bourbon barrels and re- fermented with champagne yeast. If it did exist, only 950 to a 1000 cases were produced, so if you see it, [&#8230;]</p>
+<p>The post <a href="https://beeramerica.tv/brooklyn-brewery-black-ops-ep-67/">Brooklyn Brewery: Black Ops – Ep. 67</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/brooklyn-brewery-black-ops-ep-67/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Episode 38 &#8211; Monkshine Belgian Pale Ale</title>
+		<link>https://beeramerica.tv/monkshine-belgian-pale-ale-38/</link>
+					<comments>https://beeramerica.tv/monkshine-belgian-pale-ale-38/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Thu, 12 Feb 2009 07:49:14 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[4 + Brewing]]></category>
+		<category><![CDATA[Belgian ale]]></category>
+		<category><![CDATA[Monkshine]]></category>
+		<category><![CDATA[pale ale]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=420</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/monkshine-belgian-pale-ale-38/"><img src="https://beeramerica.tv/wp-content/uploads/038-t.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>4 + Brewing Company has brewed up a Belgian Pale Ale that is remarkably light and low in alcohol, after all it&#8217;s brewed in Utah and it&#8217;s the law! What does the 4 + stand for? Watch and find out.</p>
+<p>The post <a href="https://beeramerica.tv/monkshine-belgian-pale-ale-38/">Episode 38 – Monkshine Belgian Pale Ale</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/monkshine-belgian-pale-ale-38/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Episode 10 &#8211; Kona&#8217;s Fire Rock Pale Ale</title>
+		<link>https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/</link>
+					<comments>https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2008 13:51:34 +0000</pubDate>
+				<category><![CDATA[Episodes]]></category>
+		<category><![CDATA[Fire Rock]]></category>
+		<category><![CDATA[Hawaii]]></category>
+		<category><![CDATA[Kona]]></category>
+		<category><![CDATA[pale ale]]></category>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=126</guid>
+
+					<description><![CDATA[<a href="https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/"><img src="https://beeramerica.tv/wp-content/uploads/2008/10/kona-fire-rock.jpg" class="center" align="left" hspace="5" border="0" style="display: block;"></a><p>This week we bring you a little taste of Aloha . Fire Rock Pale Ale from the Kona Brewing Company has a lot to offer, and is certainly nani and `ono!</p>
+<p>The post <a href="https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/">Episode 10 – Kona’s Fire Rock Pale Ale</a> first appeared on <a href="https://beeramerica.tv">Beer America TV - Craft Beer in Motion!</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://beeramerica.tv/episode-10-konas-fire-rock-pale-ale/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
