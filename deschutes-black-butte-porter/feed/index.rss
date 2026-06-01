@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Deschutes Brewery: Black Butte Porter, Ep. 156	</title>
+	<atom:link href="https://beeramerica.tv/deschutes-black-butte-porter/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/deschutes-black-butte-porter/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Sat, 14 Jan 2012 02:43:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Paul Leone		</title>
+		<link>https://beeramerica.tv/deschutes-black-butte-porter/comment-page-1/#comment-1348</link>
+
+		<dc:creator><![CDATA[Paul Leone]]></dc:creator>
+		<pubDate>Sat, 14 Jan 2012 02:43:21 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1284#comment-1348</guid>
+
+					<description><![CDATA[Thanks Tom! I knew when I started this thing that I needed a guy like John who lives this business everyday - he has a great way of speaking beer geek, and thats why I love him!!]]></description>
+			<content:encoded><![CDATA[<p>Thanks Tom! I knew when I started this thing that I needed a guy like John who lives this business everyday &#8211; he has a great way of speaking beer geek, and thats why I love him!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tom		</title>
+		<link>https://beeramerica.tv/deschutes-black-butte-porter/comment-page-1/#comment-1347</link>
+
+		<dc:creator><![CDATA[Tom]]></dc:creator>
+		<pubDate>Fri, 13 Jan 2012 21:24:00 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1284#comment-1347</guid>
+
+					<description><![CDATA[Really enjoyed the discussion about The Business of Brewing. Please keep it up!]]></description>
+			<content:encoded><![CDATA[<p>Really enjoyed the discussion about The Business of Brewing. Please keep it up!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

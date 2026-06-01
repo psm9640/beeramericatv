@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Cooperstown Brewing Company &#8211; Ep. 76	</title>
+	<atom:link href="https://beeramerica.tv/cooperstown-brewing-company/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/cooperstown-brewing-company/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 16:19:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Sean Inman		</title>
+		<link>https://beeramerica.tv/cooperstown-brewing-company/comment-page-1/#comment-380</link>
+
+		<dc:creator><![CDATA[Sean Inman]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2009 16:17:40 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=743#comment-380</guid>
+
+					<description><![CDATA[Very cool.  I love that more brewers are growing their own hops.]]></description>
+			<content:encoded><![CDATA[<p>Very cool.  I love that more brewers are growing their own hops.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
