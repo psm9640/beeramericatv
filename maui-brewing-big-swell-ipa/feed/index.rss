@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Maui Brewing Company Big Swell IPA, Ep. 109	</title>
+	<atom:link href="https://beeramerica.tv/maui-brewing-big-swell-ipa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/maui-brewing-big-swell-ipa/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 14:54:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Paul		</title>
+		<link>https://beeramerica.tv/maui-brewing-big-swell-ipa/comment-page-1/#comment-560</link>
+
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2010 02:05:16 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1040#comment-560</guid>
+
+					<description><![CDATA[hey fellas,
+
+figured out the comment feature...gotta click on the episode as opposed to watching on the home page.  got it!
+
+really enjoying the show, just wish there were more of them more often!  keep up the good work!
+
+Thanks,
+
+Paul]]></description>
+			<content:encoded><![CDATA[<p>hey fellas,</p>
+<p>figured out the comment feature&#8230;gotta click on the episode as opposed to watching on the home page.  got it!</p>
+<p>really enjoying the show, just wish there were more of them more often!  keep up the good work!</p>
+<p>Thanks,</p>
+<p>Paul</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Marco		</title>
+		<link>https://beeramerica.tv/maui-brewing-big-swell-ipa/comment-page-1/#comment-554</link>
+
+		<dc:creator><![CDATA[Marco]]></dc:creator>
+		<pubDate>Fri, 27 Aug 2010 11:33:17 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1040#comment-554</guid>
+
+					<description><![CDATA[Finally a beer I had the pleasure to taste this summer at Le Mondial de la Bierre here in Montreal.
+I really enjoyed it and will look for it again next year (hopefully they will attend the competition again).
+
+Cheers,
+Marco]]></description>
+			<content:encoded><![CDATA[<p>Finally a beer I had the pleasure to taste this summer at Le Mondial de la Bierre here in Montreal.<br />
+I really enjoyed it and will look for it again next year (hopefully they will attend the competition again).</p>
+<p>Cheers,<br />
+Marco</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

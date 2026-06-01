@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Krebs Brewing/Choc Brewing: 1919 &#8211; Choc Beer, Ep. 131	</title>
+	<atom:link href="https://beeramerica.tv/krebs-brewing-choc-brewing-1919-choc-beer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/krebs-brewing-choc-brewing-1919-choc-beer/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 05:33:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Marco		</title>
+		<link>https://beeramerica.tv/krebs-brewing-choc-brewing-1919-choc-beer/comment-page-1/#comment-703</link>
+
+		<dc:creator><![CDATA[Marco]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2011 17:33:50 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1232#comment-703</guid>
+
+					<description><![CDATA[Good show!]]></description>
+			<content:encoded><![CDATA[<p>Good show!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Scooter Hendon		</title>
+		<link>https://beeramerica.tv/krebs-brewing-choc-brewing-1919-choc-beer/comment-page-1/#comment-702</link>
+
+		<dc:creator><![CDATA[Scooter Hendon]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2011 17:06:05 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1232#comment-702</guid>
+
+					<description><![CDATA[Paul and John LOVE the junk...in their beers.]]></description>
+			<content:encoded><![CDATA[<p>Paul and John LOVE the junk&#8230;in their beers.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

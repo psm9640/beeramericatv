@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Episode 38 &#8211; Monkshine Belgian Pale Ale	</title>
+	<atom:link href="https://beeramerica.tv/monkshine-belgian-pale-ale-38/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/monkshine-belgian-pale-ale-38/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Fri, 24 Mar 2017 13:47:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: David Little		</title>
+		<link>https://beeramerica.tv/monkshine-belgian-pale-ale-38/comment-page-1/#comment-119</link>
+
+		<dc:creator><![CDATA[David Little]]></dc:creator>
+		<pubDate>Thu, 12 Feb 2009 15:40:18 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=420#comment-119</guid>
+
+					<description><![CDATA[Thanks Mikey for the clarification. Not so confusing ... arbitrary but understandable.
+
+These came from my cellar as opposed to off the shelf so that may explain the ABV issue.]]></description>
+			<content:encoded><![CDATA[<p>Thanks Mikey for the clarification. Not so confusing &#8230; arbitrary but understandable.</p>
+<p>These came from my cellar as opposed to off the shelf so that may explain the ABV issue.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mikey		</title>
+		<link>https://beeramerica.tv/monkshine-belgian-pale-ale-38/comment-page-1/#comment-118</link>
+
+		<dc:creator><![CDATA[Mikey]]></dc:creator>
+		<pubDate>Thu, 12 Feb 2009 13:25:08 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=420#comment-118</guid>
+
+					<description><![CDATA[I&#039;m surprised this version of Monkshine is still on the market. Four+ amped up the ABV on this beer to 6.8% last October. And just to clarify, Utah considers anything over 4.0% abv to be &quot;liquor&quot;. So any beer that&#039;s made above that is taxed as liquor and must be bottled. There is no 4.0% cap on the alcohol in beer, it just ceases to be beer in the eyes of the state. Confusing? I know....]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m surprised this version of Monkshine is still on the market. Four+ amped up the ABV on this beer to 6.8% last October. And just to clarify, Utah considers anything over 4.0% abv to be &#8220;liquor&#8221;. So any beer that&#8217;s made above that is taxed as liquor and must be bottled. There is no 4.0% cap on the alcohol in beer, it just ceases to be beer in the eyes of the state. Confusing? I know&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
