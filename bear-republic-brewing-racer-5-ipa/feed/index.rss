@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Bear Republic Brewing: Racer 5 IPA, Ep. 134	</title>
+	<atom:link href="https://beeramerica.tv/bear-republic-brewing-racer-5-ipa/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/bear-republic-brewing-racer-5-ipa/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Tue, 03 May 2011 19:51:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Chris		</title>
+		<link>https://beeramerica.tv/bear-republic-brewing-racer-5-ipa/comment-page-1/#comment-812</link>
+
+		<dc:creator><![CDATA[Chris]]></dc:creator>
+		<pubDate>Tue, 03 May 2011 19:51:28 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1242#comment-812</guid>
+
+					<description><![CDATA[Just stumbled on your site, got some great information on beer. I&#039;m going to have to go get some of that IPA.]]></description>
+			<content:encoded><![CDATA[<p>Just stumbled on your site, got some great information on beer. I&#8217;m going to have to go get some of that IPA.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Marco		</title>
+		<link>https://beeramerica.tv/bear-republic-brewing-racer-5-ipa/comment-page-1/#comment-809</link>
+
+		<dc:creator><![CDATA[Marco]]></dc:creator>
+		<pubDate>Mon, 02 May 2011 19:45:43 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=1242#comment-809</guid>
+
+					<description><![CDATA[Yes you guys look pretty spiffy in those racing shirts ;-)
+I really enjoy listening to the business side of craft brewing.
+
+Keep showing, I&#039;ll keep watching.
+Cheers,
+Marco]]></description>
+			<content:encoded><![CDATA[<p>Yes you guys look pretty spiffy in those racing shirts 😉<br />
+I really enjoy listening to the business side of craft brewing.</p>
+<p>Keep showing, I&#8217;ll keep watching.<br />
+Cheers,<br />
+Marco</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

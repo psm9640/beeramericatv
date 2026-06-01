@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Beer America TV on iTunes &#8211; Subscribe now!	</title>
+	<atom:link href="https://beeramerica.tv/beer-america-tv-itunes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/beer-america-tv-itunes/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Mon, 09 Mar 2009 17:25:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: David Little		</title>
+		<link>https://beeramerica.tv/beer-america-tv-itunes/comment-page-1/#comment-144</link>
+
+		<dc:creator><![CDATA[David Little]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2009 17:25:20 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=433#comment-144</guid>
+
+					<description><![CDATA[Ahhh Tequila ... ever tried Cazadores t.b.?]]></description>
+			<content:encoded><![CDATA[<p>Ahhh Tequila &#8230; ever tried Cazadores t.b.?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: t.b.		</title>
+		<link>https://beeramerica.tv/beer-america-tv-itunes/comment-page-1/#comment-139</link>
+
+		<dc:creator><![CDATA[t.b.]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2009 20:09:03 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=433#comment-139</guid>
+
+					<description><![CDATA[Have watched all episodes/blogs.
+Really enjoy interesting comments on products.
+Great job guys keep up the good work!
+All the best, 
+from an ex AB, Labatt employee.
+
+Thanks for the plug Pauly!
+
+I really enjoy Tequila now, specifically Patron Silver!]]></description>
+			<content:encoded><![CDATA[<p>Have watched all episodes/blogs.<br />
+Really enjoy interesting comments on products.<br />
+Great job guys keep up the good work!<br />
+All the best,<br />
+from an ex AB, Labatt employee.</p>
+<p>Thanks for the plug Pauly!</p>
+<p>I really enjoy Tequila now, specifically Patron Silver!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
