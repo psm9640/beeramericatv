@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Episode 28 &#8211; Clipper City Winter Storm	</title>
+	<atom:link href="https://beeramerica.tv/episode-28-clipper-city-winter-storm/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/episode-28-clipper-city-winter-storm/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 23 Mar 2017 21:02:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Ben Volen		</title>
+		<link>https://beeramerica.tv/episode-28-clipper-city-winter-storm/comment-page-1/#comment-69</link>
+
+		<dc:creator><![CDATA[Ben Volen]]></dc:creator>
+		<pubDate>Wed, 17 Dec 2008 14:56:09 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=303#comment-69</guid>
+
+					<description><![CDATA[&quot;This is a good beer, I&#039;m not even lying about that!&quot;
+
+Your welcome Clipper City Brewing Co.
+
+I&#039;ll take my check by mail]]></description>
+			<content:encoded><![CDATA[<p>&#8220;This is a good beer, I&#8217;m not even lying about that!&#8221;</p>
+<p>Your welcome Clipper City Brewing Co.</p>
+<p>I&#8217;ll take my check by mail</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
