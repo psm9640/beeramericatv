@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: 2008 Flour City Brew Fest	</title>
+	<atom:link href="https://beeramerica.tv/2008-flour-city-brew-fest/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/2008-flour-city-brew-fest/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Wed, 22 Mar 2017 21:00:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Brian S		</title>
+		<link>https://beeramerica.tv/2008-flour-city-brew-fest/comment-page-1/#comment-165</link>
+
+		<dc:creator><![CDATA[Brian S]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2009 05:00:17 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=116#comment-165</guid>
+
+					<description><![CDATA[This is such a great event...its nice to get to view it all over again.  Can&#039;t wait till next year!!]]></description>
+			<content:encoded><![CDATA[<p>This is such a great event&#8230;its nice to get to view it all over again.  Can&#8217;t wait till next year!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tony G		</title>
+		<link>https://beeramerica.tv/2008-flour-city-brew-fest/comment-page-1/#comment-10</link>
+
+		<dc:creator><![CDATA[Tony G]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2008 22:34:22 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=116#comment-10</guid>
+
+					<description><![CDATA[I was at this! Nothing like good beer and a good crowd on a summer night in Rochester!]]></description>
+			<content:encoded><![CDATA[<p>I was at this! Nothing like good beer and a good crowd on a summer night in Rochester!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
