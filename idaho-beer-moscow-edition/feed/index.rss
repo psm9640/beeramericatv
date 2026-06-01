@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Idaho Beer &#8211; Moscow Edition	</title>
+	<atom:link href="https://beeramerica.tv/idaho-beer-moscow-edition/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/idaho-beer-moscow-edition/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 23 Oct 2008 03:05:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Marian		</title>
+		<link>https://beeramerica.tv/idaho-beer-moscow-edition/comment-page-1/#comment-9</link>
+
+		<dc:creator><![CDATA[Marian]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2008 09:14:41 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=110#comment-9</guid>
+
+					<description><![CDATA[Hi Mickey!
+
+I&#039;m saving the photo of you on this so I can tell people what you REALLY do for a living!  (Ha!)
+
+Hope your latest &quot;road trip&quot; was a breeze and that this episode does good things for all!
+
+Talk soon.
+
+Marian]]></description>
+			<content:encoded><![CDATA[<p>Hi Mickey!</p>
+<p>I&#8217;m saving the photo of you on this so I can tell people what you REALLY do for a living!  (Ha!)</p>
+<p>Hope your latest &#8220;road trip&#8221; was a breeze and that this episode does good things for all!</p>
+<p>Talk soon.</p>
+<p>Marian</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

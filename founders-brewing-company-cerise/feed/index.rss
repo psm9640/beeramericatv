@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Founders Brewing Company: Cerise, Ep. 103	</title>
+	<atom:link href="https://beeramerica.tv/founders-brewing-company-cerise/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/founders-brewing-company-cerise/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 15:32:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Paul		</title>
+		<link>https://beeramerica.tv/founders-brewing-company-cerise/comment-page-1/#comment-532</link>
+
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2010 13:49:15 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=986#comment-532</guid>
+
+					<description><![CDATA[Glad you liked it Scott! I&#039;m not a fruit beer fan either, but this one was certainly unique and an excellent summer beer.
+
+Paul]]></description>
+			<content:encoded><![CDATA[<p>Glad you liked it Scott! I&#8217;m not a fruit beer fan either, but this one was certainly unique and an excellent summer beer.</p>
+<p>Paul</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Scott Coughlin		</title>
+		<link>https://beeramerica.tv/founders-brewing-company-cerise/comment-page-1/#comment-530</link>
+
+		<dc:creator><![CDATA[Scott Coughlin]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2010 17:44:54 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=986#comment-530</guid>
+
+					<description><![CDATA[Thank you guys for turning me onto Cerise.  I would have never have tried this, not a fruit beer fan, but the three of you seemed to enjoy it so I picked up a 4 pack.  I am so glad I did.  A wonderfully refreshing summertime beer.  
+
+Enjoy each episode, keep them coming.]]></description>
+			<content:encoded><![CDATA[<p>Thank you guys for turning me onto Cerise.  I would have never have tried this, not a fruit beer fan, but the three of you seemed to enjoy it so I picked up a 4 pack.  I am so glad I did.  A wonderfully refreshing summertime beer.  </p>
+<p>Enjoy each episode, keep them coming.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
