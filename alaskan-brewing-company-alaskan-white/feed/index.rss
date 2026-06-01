@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Alaskan Brewing Company – Alaskan White, Ep. 97	</title>
+	<atom:link href="https://beeramerica.tv/alaskan-brewing-company-alaskan-white/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/alaskan-brewing-company-alaskan-white/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 15:42:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Bryan		</title>
+		<link>https://beeramerica.tv/alaskan-brewing-company-alaskan-white/comment-page-1/#comment-503</link>
+
+		<dc:creator><![CDATA[Bryan]]></dc:creator>
+		<pubDate>Wed, 14 Apr 2010 19:52:49 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=943#comment-503</guid>
+
+					<description><![CDATA[Just had the White here in Tucson...great beer, so easy to drink and I love the subtle sweetness it has to it.]]></description>
+			<content:encoded><![CDATA[<p>Just had the White here in Tucson&#8230;great beer, so easy to drink and I love the subtle sweetness it has to it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
