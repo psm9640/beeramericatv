@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Brooklyn Brewery: Brooklyn Local 2, Ep. 54	</title>
+	<atom:link href="https://beeramerica.tv/brooklyn-brewery-local-2-54/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/brooklyn-brewery-local-2-54/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Mon, 27 Mar 2017 15:12:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Sean Inman		</title>
+		<link>https://beeramerica.tv/brooklyn-brewery-local-2-54/comment-page-1/#comment-266</link>
+
+		<dc:creator><![CDATA[Sean Inman]]></dc:creator>
+		<pubDate>Sat, 09 May 2009 16:13:57 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=592#comment-266</guid>
+
+					<description><![CDATA[I had the Local 1 at the brewery a couple of years ago and it was really good.  Really nice, smooth Belgian.  Thanks for showcasing it.  I wish I could get some out here in Los Angeles.]]></description>
+			<content:encoded><![CDATA[<p>I had the Local 1 at the brewery a couple of years ago and it was really good.  Really nice, smooth Belgian.  Thanks for showcasing it.  I wish I could get some out here in Los Angeles.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Connie		</title>
+		<link>https://beeramerica.tv/brooklyn-brewery-local-2-54/comment-page-1/#comment-237</link>
+
+		<dc:creator><![CDATA[Connie]]></dc:creator>
+		<pubDate>Fri, 01 May 2009 17:09:34 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=592#comment-237</guid>
+
+					<description><![CDATA[Chicks dig the boots.  And the beer.
+(Me likey)]]></description>
+			<content:encoded><![CDATA[<p>Chicks dig the boots.  And the beer.<br />
+(Me likey)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
