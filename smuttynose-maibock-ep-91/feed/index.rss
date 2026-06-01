@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	>
+<channel>
+	<title>
+	Comments on: Smuttynose Maibock, Ep. 91	</title>
+	<atom:link href="https://beeramerica.tv/smuttynose-maibock-ep-91/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beeramerica.tv/smuttynose-maibock-ep-91/</link>
+	<description>Beer America TV is the first beer web site dedicated to the specialty craft brewing world with video on industry experts and insiders plus more!</description>
+	<lastBuildDate>Thu, 21 Apr 2011 15:56:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		By: Edmond Medina		</title>
+		<link>https://beeramerica.tv/smuttynose-maibock-ep-91/comment-page-1/#comment-484</link>
+
+		<dc:creator><![CDATA[Edmond Medina]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2010 21:17:32 +0000</pubDate>
+		<guid isPermaLink="false">http://beeramerica.tv/?p=886#comment-484</guid>
+
+					<description><![CDATA[Though Maibock is pretty darn tasty, I absolutely love their Wheat Wine which is also part of their Big Beer Series.]]></description>
+			<content:encoded><![CDATA[<p>Though Maibock is pretty darn tasty, I absolutely love their Wheat Wine which is also part of their Big Beer Series.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
