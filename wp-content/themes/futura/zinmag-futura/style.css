@@ -116,6 +116,7 @@ blockquote {
 	}
 	
 #topbar {
+	display: none;
 	height: 32px;
 	margin-bottom: 0px;
 	background: url(images/topbar.jpg) repeat-x;
